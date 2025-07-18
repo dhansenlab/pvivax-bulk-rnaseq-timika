@@ -1,4 +1,4 @@
-# Steph_Pvivax
+# P.vivax RNAseq paper
 
 This repo contains code to replicate the RNA-seq analysis from the paper titled "Systems approach identifies monocyte imbalance in symptomatic and asymptomatic P. vivax malaria". 
 
